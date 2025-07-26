@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import AboutUs from "./components/AboutUs";
 import LandingPage from "./pages/LandingPage";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import PopularSection from "./components/PopularSection";
 import CoursesPage from "./components/CoursesPage";
 import ContactUs from "./components/ContactUs";
